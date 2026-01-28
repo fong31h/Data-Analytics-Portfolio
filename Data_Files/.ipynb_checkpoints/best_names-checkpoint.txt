@@ -1,0 +1,86 @@
+Aerodactyl ex
+Alolan Dugtrio ex
+Alolan Muk ex
+Alolan Raichu ex
+Arcanine ex
+Arceus ex
+Articuno ex
+Beedrill ex
+Bibarel ex
+Blastoise ex
+Blissey ex
+Buzzwole ex
+Celebi ex
+A1-36
+A2b-10
+Crabominable ex
+Cresselia ex
+Crobat ex
+Darkrai ex
+Decidueye ex
+Dhelmise ex
+Dialga ex
+Donphan ex
+Dragonite ex
+Eevee ex
+Entei ex
+Espeon ex
+Exeggutor ex
+Flareon ex
+Gallade ex
+Garchomp ex
+Gengar ex
+Giratina ex
+Glaceon ex
+Guzzlord ex
+Gyarados ex
+Ho-Oh ex
+Incineroar ex
+Infernape ex
+Jumpluff ex
+Kingdra ex
+Lanturn ex
+Lapras ex
+Leafeon ex
+Lickilicky ex
+Lucario ex
+Lugia ex
+Lunala ex
+Lycanroc ex
+Machamp ex
+Marowak ex
+Mew ex
+Mewtwo ex
+Mismagius ex
+Moltres ex
+Pachirisu ex
+Paldean Clodsire ex
+Palkia ex
+Passimian ex
+Pidgeot ex
+A1-96
+A2b-22
+Poliwrath ex
+Primarina ex
+Probopass ex
+Raichu ex
+Raikou ex
+Rayquaza ex
+Shuckle ex
+Skarmory ex
+Snorlax ex
+Solgaleo ex
+Starmie ex
+Suicune ex
+Sylveon ex
+Tapu Koko ex
+Tinkaton ex
+Ultra Necrozma ex
+Umbreon ex
+Venusaur ex
+Weavile ex
+Wigglytuff ex
+Wishiwashi ex
+Wugtrio ex
+Yanmega ex
+Zapdos ex
